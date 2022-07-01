@@ -1,0 +1,15 @@
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Chapter_4-Comments\Chapter_4-Comments\bin\Debug\net6.0\Chapter_4-Comments.exe
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Chapter_4-Comments\Chapter_4-Comments\bin\Debug\net6.0\Chapter_4-Comments.deps.json
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Chapter_4-Comments\Chapter_4-Comments\bin\Debug\net6.0\Chapter_4-Comments.runtimeconfig.json
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Chapter_4-Comments\Chapter_4-Comments\bin\Debug\net6.0\Chapter_4-Comments.dll
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Chapter_4-Comments\Chapter_4-Comments\bin\Debug\net6.0\Chapter_4-Comments.pdb
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Chapter_4-Comments\Chapter_4-Comments\obj\Debug\net6.0\Chapter_4-Comments.csproj.AssemblyReference.cache
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Chapter_4-Comments\Chapter_4-Comments\obj\Debug\net6.0\Chapter_4-Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Chapter_4-Comments\Chapter_4-Comments\obj\Debug\net6.0\Chapter_4-Comments.AssemblyInfoInputs.cache
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Chapter_4-Comments\Chapter_4-Comments\obj\Debug\net6.0\Chapter_4-Comments.AssemblyInfo.cs
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Chapter_4-Comments\Chapter_4-Comments\obj\Debug\net6.0\Chapter_4-Comments.csproj.CoreCompileInputs.cache
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Chapter_4-Comments\Chapter_4-Comments\obj\Debug\net6.0\Chapter_4-Comments.dll
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Chapter_4-Comments\Chapter_4-Comments\obj\Debug\net6.0\refint\Chapter_4-Comments.dll
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Chapter_4-Comments\Chapter_4-Comments\obj\Debug\net6.0\Chapter_4-Comments.pdb
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Chapter_4-Comments\Chapter_4-Comments\obj\Debug\net6.0\Chapter_4-Comments.genruntimeconfig.cache
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Chapter_4-Comments\Chapter_4-Comments\obj\Debug\net6.0\ref\Chapter_4-Comments.dll
