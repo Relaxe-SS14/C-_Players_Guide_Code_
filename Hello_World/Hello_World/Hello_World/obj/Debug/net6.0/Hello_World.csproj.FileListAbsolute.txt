@@ -1,0 +1,15 @@
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Hello_World\Hello_World\Hello_World\bin\Debug\net6.0\Hello_World.exe
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Hello_World\Hello_World\Hello_World\bin\Debug\net6.0\Hello_World.deps.json
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Hello_World\Hello_World\Hello_World\bin\Debug\net6.0\Hello_World.runtimeconfig.json
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Hello_World\Hello_World\Hello_World\bin\Debug\net6.0\Hello_World.dll
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Hello_World\Hello_World\Hello_World\bin\Debug\net6.0\Hello_World.pdb
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Hello_World\Hello_World\Hello_World\obj\Debug\net6.0\Hello_World.csproj.AssemblyReference.cache
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Hello_World\Hello_World\Hello_World\obj\Debug\net6.0\Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Hello_World\Hello_World\Hello_World\obj\Debug\net6.0\Hello_World.AssemblyInfoInputs.cache
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Hello_World\Hello_World\Hello_World\obj\Debug\net6.0\Hello_World.AssemblyInfo.cs
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Hello_World\Hello_World\Hello_World\obj\Debug\net6.0\Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Hello_World\Hello_World\Hello_World\obj\Debug\net6.0\Hello_World.dll
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Hello_World\Hello_World\Hello_World\obj\Debug\net6.0\refint\Hello_World.dll
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Hello_World\Hello_World\Hello_World\obj\Debug\net6.0\Hello_World.pdb
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Hello_World\Hello_World\Hello_World\obj\Debug\net6.0\Hello_World.genruntimeconfig.cache
+C:\Users\thist\Documents\GitHub\C-_Players_Guide_Code\Hello_World\Hello_World\Hello_World\obj\Debug\net6.0\ref\Hello_World.dll
