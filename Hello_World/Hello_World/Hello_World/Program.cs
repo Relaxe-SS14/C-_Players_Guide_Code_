@@ -19,7 +19,11 @@ Console.WriteLine("This is the end of our program.");
 
 
 //Mission 3: Declare a variable, and use it as a container for a users input. Write that variable to the console.
+/*
 string userInput;
 Console.WriteLine("Who recieves the bread??");
 userInput = Console.ReadLine();
 Console.WriteLine(userInput + " recieves the bread.");
+*/
+
+// 
